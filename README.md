@@ -1,3 +1,3 @@
-Nama    : Nanda Tristan Ardiansyah
+Nama    : Tristan Ardiansyah
 NPM     : 2106752086
 Kelas   : E
